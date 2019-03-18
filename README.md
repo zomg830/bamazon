@@ -1,6 +1,6 @@
 # bamazon
 
-  <img src="/videos/customerOrder.gif">
+  <img height="320" width="240" src="/videos/customerOrder.gif">
   
-  <img src="/videos/orderFail.gif">
+  <img height="320" width="240" src="/videos/orderFail.gif">
 
